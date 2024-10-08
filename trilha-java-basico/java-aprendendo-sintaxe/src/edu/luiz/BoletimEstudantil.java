@@ -1,4 +1,4 @@
-package edu.luiz.primeirasemana;
+package edu.luiz;
 // arquivo BoletimEstudantil.java
 public class BoletimEstudantil {
 	public static void main(String[] args) {

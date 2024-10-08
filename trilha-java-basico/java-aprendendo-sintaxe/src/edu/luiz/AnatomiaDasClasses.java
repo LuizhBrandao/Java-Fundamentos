@@ -1,4 +1,4 @@
-package edu.luiz.primeirasemana;
+package edu.luiz;
 
 public class AnatomiaDasClasses {
 
