@@ -50,32 +50,3 @@ public class Cliente {
     }
 
 }
-
-
-
-    /*  Métodos getters e setters
-    
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
-    public int getIdade() {
-        return idade;
-    }
-
-    public void setIdade(int idade) {
-        this.idade = idade;
-    }
-
-    // Método toString (opcional)
-    @Override
-    public String toString() {
-        return "Pessoa{id=" + id + ", nome='" + nome + "', idade=" + idade + '}';
-    }
-}*/
