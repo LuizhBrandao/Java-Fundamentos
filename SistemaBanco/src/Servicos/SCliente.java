@@ -20,7 +20,28 @@ public class SCliente {
 
     public void cadastraCliente(Cliente cliente){
         Long idFormatado = Long.valueOf(cliente.getId());
-        this.clienteMap.put(idFormatado, cliente);   
+        this.clienteMap.put(idFormatado, cliente);
+        for (Map.Entry<Long, Cliente> entry : this.clienteMap.entrySet()) {
+            System.out.println("Id: " + entry.getKey() + ", Nome: " + entry.getValue().getNome());
+        }   
+    }
+    
+    public void deletaCliente(Long id){
+        Cliente cliente = this.buscaCliente(id);
+        this.clienteMap.remove(id);
+        System.out.println(" o cliente " + cliente.getNome() + " foi deletado " );
+        for (Map.Entry<Long, Cliente> entry : this.clienteMap.entrySet()) {
+            System.out.println("Id: " + entry.getKey() + ", Nome: " + entry.getValue().getNome());
+        }   
+    }
+
+    public void alteraCliente(Long id , Cliente clienteAlterado){
+        Cliente cliente = this.buscaCliente(id);
+        System.out.println(cliente);
+        String nomeDoCliente = clienteAlterado.getNome();
+        cliente.setNome(nomeDoCliente);
+        this.clienteMap.put(id, cliente);   
+        System.out.println(cliente);
     }
 
 }

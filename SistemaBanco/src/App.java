@@ -25,12 +25,17 @@ public class App {
         contaCliente = cliente.getConta();
         
         System.out.println("Ok " + idCliente + nomeCliente + agenciaCliente + contaCliente );
-        //a fazer EX o nome do cliente é .... System.out.println(cliente);
         servicoDoCliente.cadastraCliente(cliente);
         Cliente busca = servicoDoCliente.buscaCliente(97L);
 
         System.out.println(busca.getNome());
 
+        servicoDoCliente.deletaCliente(1L);
+
+        Cliente buscaCliente = servicoDoCliente.buscaCliente(97L);
+        buscaCliente.setNome(" Luiz Henrique ");
+        buscaCliente.setId(3);
+        servicoDoCliente.alteraCliente(97L, buscaCliente);
     }
 
 }

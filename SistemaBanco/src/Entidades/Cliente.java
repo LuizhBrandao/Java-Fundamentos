@@ -49,4 +49,10 @@ public class Cliente {
         this.conta = novaConta;
     }
 
+    @Override
+    public String toString(){
+        return " Id: " + this.getId() + " Nome : " + this.getNome() + " Agencia : " + this.getAgencia() + " Conta : " + this.getConta();
+
+    }
+
 }
