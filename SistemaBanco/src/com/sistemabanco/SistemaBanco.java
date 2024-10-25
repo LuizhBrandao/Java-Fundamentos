@@ -1,10 +1,12 @@
-import Entidades.Cliente;
-import Servicos.SCliente;
+package com.sistemabanco;
 
-public class App {
+import com.sistemabanco.entidade.Cliente;
+import com.sistemabanco.servico.ClienteService;
+
+public class SistemaBanco {
     public static void main(String[] args) throws Exception {
         Cliente cliente = new Cliente(3, " Luiz ", " 1a ", 99);
-        SCliente servicoDoCliente = new SCliente();
+        ClienteService servicoDoCliente = new ClienteService();
         int idCliente = cliente.getId();
         String nomeCliente = cliente.getNome();
         String agenciaCliente = cliente.getAgencia();

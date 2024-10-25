@@ -1,14 +1,14 @@
-package Servicos;
+package com.sistemabanco.servico;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import Entidades.Cliente;
+import com.sistemabanco.entidade.Cliente;
 
-public class SCliente {
+public class ClienteService {
     Map<Long, Cliente> clienteMap;
 
-    public SCliente() {
+    public ClienteService() {
         this.clienteMap = new HashMap<>();
         this.clienteMap.put(1L, new Cliente(1, "João", "25", 123));
     }

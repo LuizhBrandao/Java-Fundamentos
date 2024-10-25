@@ -1,4 +1,4 @@
-package Entidades;
+package com.sistemabanco.entidade;
 
 public class Cliente implements Cloneable {
     // Atributos clientes
