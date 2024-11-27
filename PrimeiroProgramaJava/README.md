@@ -1,18 +1,13 @@
-## Getting Started
+Para consolidar as ideias de classe em Java, propomos atividades práticas (não obrigatórias) que enriquecerão ainda mais sua compreensão desses princípios fundamentais.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Pronto para colocar esses conceitos em prática?
 
-## Folder Structure
+1-Crie um projeto Java no IntelliJ que deve conter uma classe chamada Perfil, com o método main, que ao executar deverá imprimir um cumprimento personalizado no console. Por exemplo, "Olá, [Seu Nome]!".
 
-The workspace contains two folders by default, where:
+2-Modifique o programa para imprimir uma segunda mensagem de cumprimento personalizada. Por exemplo, "Tudo bem?".
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+3-Crie uma classe chamada Estudos para imprimir anotações de estudos no console.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+4-Crie uma classe Soma em Java para imprimir no console o resultado da operação 10 + 5. Certifique-se de que o resultado seja exibido sem o uso de aspas, apresentando o valor "15" ao invés da expressão "10+5".
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+5-Crie uma classe Subtracao para imprimir o resultado de 10 - 5 no console.
