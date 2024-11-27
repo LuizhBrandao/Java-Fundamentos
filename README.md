@@ -22,7 +22,7 @@
 A estrutura básica de um programa Java é composta por **classes** e **métodos**.
 
 Código:
-
+```
     public class HelloWorld {
 
         public static void main(String[] args) {
@@ -32,7 +32,7 @@ Código:
     }
 
 }
-
+```
 * **`class`**: Define uma classe.
 * **`main`**: Método principal onde a execução do programa começa.
 * **`System.out.println`**: Imprime uma mensagem no console.
@@ -51,7 +51,7 @@ Java possui tipos de dados **primitivos** e **referência**:
 * **Booleano**: `boolean` (`true` ou `false`)
 
     **Exemplo**: Código
-
+```
 int idade = 25;
 
 double altura = 1.75;
@@ -59,7 +59,7 @@ double altura = 1.75;
 char letra = 'A';
 
 boolean ativo = true;`
-
+```
 **Tipos de Referência**:
 
 * Referenciam objetos, como instâncias de classes (`String`, `Array`, etc.).
@@ -90,7 +90,7 @@ Java oferece vários tipos de operadores, incluindo:
 * **Condicionais**:   Código:    if (idade >= 18) {        System.out.println("Maior de idade");     } else {        System.out.println("Menor de idade");     }
 
 * **Laços de repetição**:Código:
-
+```
 for (int i = 0; i < 5; i++) {    System.out.println(i);
 
 }
@@ -100,7 +100,7 @@ while (contador < 10) {
     contador++;
 
 }
-
+```
 * * *
 
 #### 6. **Arrays**:
@@ -108,11 +108,11 @@ while (contador < 10) {
 Um **array** é uma estrutura que armazena múltiplos valores do mesmo tipo.
 
 Código:
-
+```
 int[] numeros = {1, 2, 3, 4, 5};
 
 System.out.println(numeros[0]); // Acessa o primeiro elemento
-
+```
 * * *
 
 ### 🏗️ **Programação Orientada a Objetos (POO)**:
