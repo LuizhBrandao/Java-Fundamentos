@@ -87,9 +87,17 @@ Java oferece vários tipos de operadores, incluindo:
 
 #### 5. **Controle de Fluxo**:
 
-* **Condicionais**:   Código:    if (idade >= 18) {        System.out.println("Maior de idade");     } else {        System.out.println("Menor de idade");     }
+* **Condicionais**:   Código:
+```
+  if (idade >= 18) {
+    System.out.println("Maior de idade");
+  } else {
+    System.out.println("Menor de idade");
+  }
+```
 
 * **Laços de repetição**:Código:
+
 ```
 for (int i = 0; i < 5; i++) {    System.out.println(i);
 
