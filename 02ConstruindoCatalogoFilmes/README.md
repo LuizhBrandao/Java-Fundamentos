@@ -1,3 +1,7 @@
+Curso de Java: Criando a sua primeira aplicação
+
+AULA 02
+
 Em Java, a manipulação eficiente de variáveis é crucial para armazenar dados em memória. Os tipos primitivos, como inteiros, ponto flutuante, char e boolean, desempenham papéis específicos. A classe String é essencial para operações com textos. O casting resolve conflitos de tipos, permitindo conversões explícitas.
 
 Essas habilidades formam a base para o desenvolvimento eficaz de programas em Java, por isso criamos atividades práticas (não obrigatórias) para você praticar. Vamos praticar?
