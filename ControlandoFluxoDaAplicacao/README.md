@@ -1,3 +1,7 @@
+Curso de Java: Criando a sua primeira aplicação
+
+AULA 03
+
 Vimos como usar comparações para condicionais, integrar leitura do teclado com a classe Scanner, explorar alternativas para condicionais e empregar estruturas de repetição como for e while. Esses conhecimentos constituem a base para o desenvolvimento eficaz de programas em Java.
 
 Para aprimorar essas habilidades, propomos atividades práticas (não obrigatórias). Vamos lá?
