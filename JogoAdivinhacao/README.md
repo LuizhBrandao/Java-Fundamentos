@@ -1,18 +1,15 @@
-## Getting Started
+Agora é com você! Pratique os conceitos que foram ensinados ao longo dessa aula com o seguinte desafio:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Crie um programa que simula um jogo de adivinhação, que deve gerar um número aleatório entre 0 e 10 e pedir para que o usuário tente adivinhar o número, em até 5 tentativas. A cada tentativa, o programa deve informar se o número digitado pelo usuário é maior ou menor do que o número gerado.
 
-## Folder Structure
+Dicas:
 
-The workspace contains two folders by default, where:
+* Para gerar um número aleatório em Java: new Random().nextInt(10);
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Utilize o Scanner para obter os dados do usuário;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Utilize uma variável para contar as tentativas;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Utilize um loop para controlar as tentativas;
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Utilize a instrução break; para interromper o loop.
