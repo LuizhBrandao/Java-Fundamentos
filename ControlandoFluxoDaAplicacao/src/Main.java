@@ -1,4 +1,3 @@
-import java.net.SecureCacheResponse;
 import java.util.Scanner;
 
 public class Main {
