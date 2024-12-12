@@ -1,3 +1,7 @@
+Curso de Java: Aplicando a Orientação a Objetos
+
+AULA 05
+
 Na programação orientada a objetos, conceitos fundamentais como classe, métodos, atributos e instanciação desempenham papéis cruciais na organização e estruturação do código.
 
 Compreender esses conceitos é fundamental para a programação orientada a objetos, pois proporciona uma estrutura organizada, modular e reutilizável ao código. Para aprimorar essas habilidades, criamos uma lista de atividades (não obrigatórias) focada na prática para melhorar ainda mais sua experiência de aprendizagem. Vamos praticar?
