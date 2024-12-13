@@ -1,6 +1,6 @@
 # Curso de Java: Aplicando a Orientação a Objetos
 
-## AULA 05
+## AULA 06
 
 Vamos aplicar na prática os conceitos de modificadores de acesso public e private, import, this, getters e setters. Para reforçar essas habilidades, propomos uma lista de atividades práticas (não obrigatórias), enriquecendo ainda mais sua experiência de aprendizado.
 
@@ -15,6 +15,7 @@ Vamos colocar esses conceitos em ação?
 * Desenvolva uma classe Aluno com os atributos privados nome e notas. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um método calcularMedia que retorna a média das notas do aluno.
 
 * Desenvolva uma classe Livro com os atributos privados titulo e autor. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um método exibirDetalhes que imprime o título e o autor do livro.
+
 
 ## Nessa aula, você aprendeu sobre:
 
@@ -31,3 +32,4 @@ Vamos colocar esses conceitos em ação?
 * O uso da palavra chave this;
 
 * Boas práticas de dividir o código em pacotes, bem como a convenção usada: domínio da empresa ao contrário, onde aqui vamos colocar por exemplo br.com.alura.screenmatch.
+
