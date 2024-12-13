@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AULA06/AULA06.iml" filepath="$PROJECT_DIR$/AULA06/AULA06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA07/AULA07.iml" filepath="$PROJECT_DIR$/AULA07/AULA07.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstruindoCatalogoFilmes/ConstruindoCatalogoFilmes.iml" filepath="$PROJECT_DIR$/ConstruindoCatalogoFilmes/ConstruindoCatalogoFilmes.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControlandoFluxoDaAplicacao/ControlandoFluxoDaAplicacao.iml" filepath="$PROJECT_DIR$/ControlandoFluxoDaAplicacao/ControlandoFluxoDaAplicacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Fundamentos.iml" filepath="$PROJECT_DIR$/.idea/Java-Fundamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeiroProgramaJava/PrimeiroProgramaJava.iml" filepath="$PROJECT_DIR$/PrimeiroProgramaJava/PrimeiroProgramaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenMatch/ScreenMatch.iml" filepath="$PROJECT_DIR$/ScreenMatch/ScreenMatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/SistemaBanco/SistemaBanco.iml" filepath="$PROJECT_DIR$/SistemaBanco/SistemaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-tv/sistema-tv.iml" filepath="$PROJECT_DIR$/sistema-tv/sistema-tv.iml" />
     </modules>
